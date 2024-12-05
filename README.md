@@ -23,5 +23,5 @@ Follow the steps below to set up the environment for this project.
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/magnumdrp/Python-practice-with-keras.git
-   cd Python-practice-with-keras
+   git clone https://github.com/magnumdrp/Python-practice-handwritten-digit-recognition.git
+   cd Python-practice-handwritten-digit-recognition
